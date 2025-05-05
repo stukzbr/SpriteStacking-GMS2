@@ -1,0 +1,1 @@
+draw_sprite_stacked_ext(sTree,x,y,.5,.5,0,c_white,1,1)

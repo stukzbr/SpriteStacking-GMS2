@@ -1,0 +1,1 @@
+draw_sprite_stacked_ext(sTreeSnow,x,y,.25,.25,0,c_white,1,.5)

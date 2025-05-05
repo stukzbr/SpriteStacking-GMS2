@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"stacking_sys",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"stacking_sys",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
