@@ -1,6 +1,6 @@
 # Sprite Stacking Project at GMS2
 
-## [DOWNLOAD](/stukzbr/SpriteStacking-GMS2/archive/refs/heads/main.zip)
+## [⬇ DOWNLOAD](https://github.com/stukzbr/SpriteStacking-GMS2/archive/refs/heads/main.zip){:download="SpriteStacking-GMS2-main.zip"}
 
 This is a project that demonstrates the use of **sprite stacking** — a technique that creates a 3D-like visual style using stacked 2D slices of voxel art.
 
