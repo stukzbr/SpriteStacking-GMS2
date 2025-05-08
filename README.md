@@ -31,3 +31,5 @@ All the slice images used in this project are generated using [**MagicaVoxel**](
 
 ## 📸 Preview
 ![Sprite Stack Preview](2025-05-0419-49-13-ezgif.com-video-to-gif-converter.gif)
+
+Credits: @EliotyKid
